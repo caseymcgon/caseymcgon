@@ -6,7 +6,7 @@
 ###### - 🌱 I’m currently studying Applied Machine Learning, Statistics for Data Science, and Data Visualization 
 ###### - 👯 I’m looking to collaborate on climate change x data science projects.
 ###### - 🤔 I’m looking for help with ideation about which climate x data projects I should tackle
-###### - 📫 How to reach me: cmcgon@ischool.berkeley.edu
+###### - 📫 How to reach me: Email: cmcgon@ischool.berkeley.edu or Linkedin: www.linkedin.com/in/casey-mcgonigle
 ###### - 😄 Pronouns: He/Him
 ###### - ⚡ Fun fact: I've been to over 200 live music concerts in my life...and I'm just gettin started!
 

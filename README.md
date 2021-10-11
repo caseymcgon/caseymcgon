@@ -1,4 +1,4 @@
-<img src="https://github.com/caseymcgon/caseymcgon/blob/main/header.png", alt="Banner Introducing Casey McGonigle (that's Me!)" >
+<img src="https://github.com/caseymcgon/caseymcgon/blob/main/header.png" alt="Banner Introducing Casey McGonigle (that's Me!)" >
 
 ### I'm a Data Science Masters Candidate at UC Berkeley with a passion for fighting climate change, exploring the outdoors, cheering for Bay Area sports, and enjoying live music.
 

@@ -1,8 +1,6 @@
-<img src="" >
+<img src="https://github.com/caseymcgon/caseymcgon/blob/main/header.png", alt="Banner Introducing Casey McGonigle (that's Me!) >
 
-## Hey There! 👋
-
-#### My name is Casey. I'm a Data Science Masters Candidate at UC Berkeley with a passion for fighting climate change, exploring the outdoors, cheering for Bay Area sports, and enjoying live music.
+### I'm a Data Science Masters Candidate at UC Berkeley with a passion for fighting climate change, exploring the outdoors, cheering for Bay Area sports, and enjoying live music.
 
 ###### - 🔭 I’m currently working on data science projects like: 1. Building a Neural Net on MLB Statcast data to better predict the outcome of a given plate appearance 2. Visualizing Dead & Company Setlists and creating a model to predict the next setlist.
 ###### - 🌱 I’m currently studying Applied Machine Learning, Statistics for Data Science, and Data Visualization at the Graduate level

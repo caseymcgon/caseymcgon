@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey There! 👋
 
-<!--
-**caseymcgon/caseymcgon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is Casey. I'm a Data Science Masters Candidate at UC Berkeley with a passion for fighting climate change, exploring the outdoors, cheering for Bay Area sports, and enjoying live music.
 
-Here are some ideas to get you started:
+###### - 🔭 I’m currently working on data science projects like: 1. Building a Neural Net on MLB Statcast data to better predict the outcome of a given plate appearance 2. Visualizing Dead & Company Setlists and creating a model to predict the next setlist.
+###### - 🌱 I’m currently studying Applied Machine Learning, Statistics for Data Science, and Data Visualization 
+###### - 👯 I’m looking to collaborate on climate change x data science projects.
+###### - 🤔 I’m looking for help with ideation about which climate x data projects I should tackle
+###### - 📫 How to reach me: cmcgon@ischool.berkeley.edu
+###### - 😄 Pronouns: He/Him
+###### - ⚡ Fun fact: I've been to over 200 live music concerts in my life...and I'm just gettin started!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+<--!
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

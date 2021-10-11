@@ -1,4 +1,4 @@
-<img src="https://github.com/caseymcgon/caseymcgon/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="" >
 
 ## Hey There! 👋
 

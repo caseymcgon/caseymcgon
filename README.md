@@ -10,6 +10,6 @@
 ###### - 😄 Pronouns: He/Him
 ###### - ⚡ Fun fact: I've been to over 200 live music concerts in my life...and I'm just gettin started!
 
-<--!
+<!--
 - 💬 Ask me about ...
 -->

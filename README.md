@@ -7,12 +7,10 @@
 ###### - 👯 I’m looking to collaborate on climate change x data science projects.
 ###### - 🤔 I’m looking for help with ideation about which climate x data projects I should tackle
 ###### - 📫 How to reach me: Email: cmcgon@ischool.berkeley.edu or Linkedin: www.linkedin.com/in/casey-mcgonigle
+###### - 💬 Ask me about the best spots to camp/backpack around the Bay Area
 ###### - 😄 Pronouns: He/Him
 ###### - ⚡ Fun fact: I've been to over 200 live music concerts in my life...and I'm just gettin started!
 
-<!--
-- 💬 Ask me about ...
--->
 
 ## My Github currently contains 4 pinned projects/repos:
 

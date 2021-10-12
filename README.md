@@ -20,5 +20,5 @@
 
 3. **caseymcgon/EBCE-Disconnections-Research**: Jan 2020 - May 2020 -- Executive Summary of a Semester-long Research Project for East Bay Community Energy (EBCE) -- Building ML models to discern which buildings are likely to disconnect from the electrical grid. Selection of Skills & Tools: python, sklearn, matplotlib. Please note: this repo contains no code as it is owned by EBCE.
 
-4. **caseymcgon/Data100GradProject**: Jan 2020 - May 2020 -- Used python, pandas, & seaborn to understand what fantasy basketball scores actually measure, which factors tend to influence them, and how to best be predict them
+4. **caseymcgon/Data100GradProject**: Apr 2020 - May 2020 -- Used python, pandas, & seaborn to understand what fantasy basketball scores actually measure, which factors tend to influence them, and how to best be predict them
 

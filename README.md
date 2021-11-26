@@ -9,7 +9,7 @@
 ###### - 📫 How to reach me: Email: cmcgon@ischool.berkeley.edu or Linkedin: www.linkedin.com/in/casey-mcgonigle
 ###### - 💬 Ask me about the best spots to camp/backpack around the Bay Area
 ###### - 😄 Pronouns: He/Him
-###### - ⚡ Fun fact: I've been to over 200 live music concerts in my life...and I'm just gettin started!
+###### - ⚡ Fun fact: I'm a live music junkie -- everything from music in the local park to underground jazz clubs to stadium rock shows. I'm currently at around  200 live shows in my life...and I'm just gettin started!
 
 
 ## My Github currently contains 4 pinned projects/repos:

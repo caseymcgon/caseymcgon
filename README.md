@@ -5,7 +5,7 @@
 ###### - 🔭 I’m currently working on data science projects like: 1. Building a Neural Net on MLB Statcast data to better predict the outcome of a given plate appearance 2. Visualizing Dead & Company Setlists and creating a model to predict the next setlist.
 ###### - 🌱 I’m currently studying Applied Machine Learning, Statistics for Data Science, and Data Visualization at the Graduate level
 ###### - 👯 I’m looking to collaborate on climate change x data science projects.
-###### - 🤔 I’m looking for help with ideation about which climate x data projects I should tackle
+###### - 🤔 I’m looking for help with ideation about which climate x data problems I should tackle next
 ###### - 📫 How to reach me: Email: cmcgon@ischool.berkeley.edu or Linkedin: www.linkedin.com/in/casey-mcgonigle
 ###### - 💬 Ask me about the best spots to camp/backpack around the Bay Area
 ###### - 😄 Pronouns: He/Him

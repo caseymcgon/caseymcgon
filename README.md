@@ -12,7 +12,7 @@
 ###### - 🎸 Fun fact: I'm a live music junkie -- everything from music in the local park to underground jazz clubs to stadium rock shows. I'm currently at around  200 live shows in my life...and I'm just gettin started!
 
 
-## My Github currently contains 4 pinned projects/repos:
+## My Github currently contains 5 pinned projects/repos:
 
 1. **caseymcgon/climate-enviro-energy**: Mar 2022 - Present -- An effort to combine hundreds of climate-centric data sources into 1 repo to encourage more research & modeling to combat climate change 
 

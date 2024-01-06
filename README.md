@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Casey</h1>
-<h3 align="center">🌎 I like data and I like this green Earth</h3>
+<h3 align="center">🌎 I like data and I like this green Earth 🌏</h3>
 
 ###### - 🔋 I'm currently working as a Battery Data Scientist at Liminal Insights where I focus on building tools to detect changes to the consistency & quality our systems' data generation
 ###### - 🔭 I've done this outside of work: 1. Created a state-of-the-art NLP model to predict a song's era from its lyrics 2. Created an experiment to understand [how leaderboards impact one's risk tolerance](https://docs.google.com/document/d/1SBxlMlpD1-fswTaecmRI94XVzROEGnFanJJ8W5-6COU/edit?usp=sharing)

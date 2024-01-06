@@ -2,7 +2,7 @@
 
 ## I'm a Data Science Grad Student at UC Berkeley with a passion for fighting climate change, exploring the outdoors, cheering for Bay Area sports, and enjoying live music.
 
-###### - 🔭 I’m currently working on data science projects like: 1. Developing a state-of-the-art NLP model to predict a song's era from its lyrics 2. Creating an experiment to understand how [leaderboards impact one's risk tolerance](https://docs.google.com/document/d/1SBxlMlpD1-fswTaecmRI94XVzROEGnFanJJ8W5-6COU/edit?usp=sharing)
+###### - 🔭 I’m currently working on data science projects like: 1. Developing a state-of-the-art NLP model to predict a song's era from its lyrics 2. Creating an experiment to understand [how leaderboards impact one's risk tolerance](https://docs.google.com/document/d/1SBxlMlpD1-fswTaecmRI94XVzROEGnFanJJ8W5-6COU/edit?usp=sharing)
 
 ###### - 🌱 I’m currently studying Deep Learning w/ Natural Language Processing & Experiments and Causal Inference at the Graduate level
 ###### - 👯 I’m looking to collaborate on climate change x data science projects.

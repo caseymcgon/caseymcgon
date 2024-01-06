@@ -1,5 +1,3 @@
-<img src="https://github.com/caseymcgon/caseymcgon/blob/main/header.png" alt="Banner Introducing Casey McGonigle (that's Me!)" >
-
 <h1 align="center">Hi 👋, I'm Casey</h1>
 <h3 align="center">🌎 I like data and I like this green Earth</h3>
 

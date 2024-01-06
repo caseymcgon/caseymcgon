@@ -5,8 +5,8 @@
 ###### - 🔭 I've done this outside of work: 1. Created a state-of-the-art NLP model to predict a song's era from its lyrics 2. Created an experiment to understand [how leaderboards impact one's risk tolerance](https://docs.google.com/document/d/1SBxlMlpD1-fswTaecmRI94XVzROEGnFanJJ8W5-6COU/edit?usp=sharing)
 ###### - 🎓 I studied: Deep Learning w/ Natural Language Processing & Causal Inference via Experimentation during my Masters Degree at UC Berkeley (MIDS).
 ###### - 👋 I’d love to chat about: which climate x data problems I should tackle next
-###### - 📫 How to reach me: Email: cmcgon@ischool.berkeley.edu or Linkedin: www.linkedin.com/in/casey-mcgonigle
 ###### - 💬 Ask me about: the best spots to camp/backpack around the Bay Area, Fantasy Football, the best '73 dead shows.
+###### - 📫 How to reach me: Email: cmcgon@ischool.berkeley.edu or Linkedin: www.linkedin.com/in/casey-mcgonigle
 ###### - 👦 Pronouns: He/Him
 
 

@@ -4,11 +4,11 @@
 
 ###### - 🔋 I'm currently working as a Battery Data Scientist at Liminal Insights where I focus on building tools to detect changes to the consistency & quality of the data produced by our systems 
 ###### - 🔭 I've done this outside of work: 1. Developing a state-of-the-art NLP model to predict a song's era from its lyrics 2. Creating an experiment to understand [how leaderboards impact one's risk tolerance](https://docs.google.com/document/d/1SBxlMlpD1-fswTaecmRI94XVzROEGnFanJJ8W5-6COU/edit?usp=sharing)
-###### - 🎓 I studied Deep Learning w/ Natural Language Processing & Causal Inference via Experimentation for my Masters Degree at UC Berkeley
-###### - 👋 I’d love to chat about which climate x data problems I should tackle next
+###### - 🎓 I studied: Deep Learning w/ Natural Language Processing & Causal Inference via Experimentation for my Masters Degree at UC Berkeley
+###### - 👋 I’d love to chat about: which climate x data problems I should tackle next
 ###### - 📫 How to reach me: Email: cmcgon@ischool.berkeley.edu or Linkedin: www.linkedin.com/in/casey-mcgonigle
-###### - 💬 Ask me about the best spots to camp/backpack around the Bay Area, Fantasy Football, the best '73 dead shows.
-###### - 😄 Pronouns: He/Him
+###### - 💬 Ask me about: the best spots to camp/backpack around the Bay Area, Fantasy Football, the best '73 dead shows.
+###### - 👦 Pronouns: He/Him
 
 
 ## My Github currently contains 5 pinned projects/repos:

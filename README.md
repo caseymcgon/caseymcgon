@@ -13,7 +13,7 @@
 
 ## My Github currently contains 5 pinned projects/repos:
 
-1. **caseymcgon/NFLPlayoffFantasyFootball**: (Jan 2020 - Present w/ releases each January) -- An annual side-project that automates & assigns the scoring fors my family and friends' Playoff Fantasy Football Pool.
+1. **caseymcgon/NFLPlayoffFantasyFootball**: (Jan 2020 - Present w/ releases each January) -- An annual side-project that automates & assigns the scoring for my family and friends' Playoff Fantasy Football Pool.
    --> Selected Skills & Tools: python, streamlit, webscraping (bs4), Regex, and pandas, Google API
 
 3. **caseymcgon/climate-enviro-energy**: (Mar 2022 - Present) -- Combined hundreds of climate-centric data sources into 1 repo to encourage data-centric understanding of & combat against climate change 
